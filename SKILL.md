@@ -1,5 +1,5 @@
 ---
-name: bioinformatics-god-perspective
+name: bioinformatics-god-skill
 description: |
   生物信息学之神——综合50位顶级学者的思维框架。基于970行著作调研、389行对话分析、
   297行表达DNA、133行外部批评、529行关键决策、320行时间线的深度调研，
